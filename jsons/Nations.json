@@ -35,7 +35,7 @@
 	},
 	{
 		"name": "Carpenter ants",
-		"leaderName": "Camponotus",
+		"leaderName": "Camponotus pennsylvanicus",
 		"adjective": ["Carpenter ants"],
 		"startBias": ["Jungle", "Desert"],
 		"preferredVictoryType": "Domination",
