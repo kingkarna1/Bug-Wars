@@ -3,19 +3,18 @@
 	{
 		"name": "Spectator",
 		"outerColor": [255,255,255]
-//		"innerColor": [255,255,255]
 	},
 
 	{
-		//nations
+		//Ant Nations
 		"name": "Red Imported Fire Ants",
 		"leaderName": "Solenopsis invicta",
 		"adjective": ["Fire Ants"],
-		"startBias": ["Jungle"],
+		"startBias": ["Jungle", 'Forest"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "WIP",
-		"startIntroPart2": "WiP,
+		"startIntroPart2": "WIP",
 
 		"declaringWar": "WIP",
 		"attacked": "WIP",
@@ -33,5 +32,32 @@
 		"uniqueName": "Expand, and do battle",
 		"uniques": ["[+20]% growth [in all cities]", "No movement cost to pillage", "[Great General] is earned [75]% faster", "[+25]% Strength", "[47]% XP gained from combat"],
 		"cities": [" Alabama", "Arkansas", "California", "Florida", "Georgia",  "Louisiaana", "Mississippi", "New Mexico", "North Carolina", "Oklahoma", "Puerto Rico", "South Carolina", "Tennessee", "Texas", "Virginia"]
+	},
+	{
+		"name": "Carpenter ants",
+		"leaderName": "Camponotus",
+		"adjective": ["Carpenter ants"],
+		"startBias": ["Jungle", "Desert],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "WIP",
+		"startIntroPart2": "WIP",
+
+		"declaringWar": "WIP",
+		"attacked": "WIP",
+		"defeated": "WIP",
+		"introduction": "WIP",
+
+		"neutralHello": "WIP",
+		"hateHello": "WIP",
+
+		"tradeRequest": "WIP",
+
+		"outerColor": [39, 26, 12],
+		"innerColor": [255,0,0],
+		"favoredReligion": "Islam",
+		"uniqueName": "Construct, and provide use",
+		"uniques": ["[+3 Production] per [2] population [in all cities]", "[+10 Production] [in all cities]", "Quantity of strategic resources produced by the empire +[+200]%", "[-50]% maintenance cost for buildings [in all cities]", "[-75]% maintenance on road & railroads"],
+		"cities": ["West Indies", "Mexico", "Central America", "South America"]
 	},
 ]
