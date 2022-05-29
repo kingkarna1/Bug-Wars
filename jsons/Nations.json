@@ -10,7 +10,7 @@
 		"name": "Red Imported Fire Ants",
 		"leaderName": "Solenopsis invicta",
 		"adjective": ["Fire Ants"],
-		"startBias": ["Jungle", 'Forest"],
+		"startBias": ["Jungle", "Forest"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "WIP",
@@ -37,7 +37,7 @@
 		"name": "Carpenter ants",
 		"leaderName": "Camponotus",
 		"adjective": ["Carpenter ants"],
-		"startBias": ["Jungle", "Desert],
+		"startBias": ["Jungle", "Desert"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "WIP",
