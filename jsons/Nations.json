@@ -6,7 +6,7 @@
 	},
 	{
 		//Ant Nations
-		"name": "Red Imported Fire Ants",
+		"name": "Red Fire Ants",
 		"leaderName": "Solenopsis invicta",
 		"adjective": ["Ants"],
 		"startBias": ["Jungle", "Forest"],
